@@ -1,0 +1,286 @@
+[
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Reading",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Read within 3-5 minutes for short text problem. If no, you need to work on your Reading English Skills"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Never suspect later your problem understanding? If happens, you need to improve your comprehension \/ cases tracing"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Thinking",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Ready and in the challenging mood before start solving. "
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Found a solution; Do verifications: text cases \/ extra cases \/ correctness \/ time & memory"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Coding",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Sketch in your mind the big picture of the code first. Don't rush for coding"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Code within 10 minutes. If more, you have coding skills problem or your understanding for the approach is not complete"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"A lot of copy paste? Something wrong. Need a better code organization"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Needed more than 10 minutes to code medium size codes? Why? Identify the issue and solve it"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Debugging",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Which will be faster to catch the mistake? Printing or Debugger"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Don't know how to use a debugger? Learn this skill"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Needed more than 10 minutes to solve bugs? Something is wrong. Why need all this time? How to solve this issue?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Code is ready!",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Just submit and see if passed? Wrong. Behave as if you are in the real contest. Are you almost sure it will be AC? If yes, submit"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"TRAIN offline as if you are in a real contest. This shortens the gap between training and the real contest"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Code Failed :(",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Are you nervous \/ frustrated? Yes => Wrong behavior. Take it easy"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Rush to test cases? Yes => Wrong, revise idea, then code, then trace more samples. Try for 15 minutes or more first"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Got it AC",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Read and Understood editorial solutions?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Checked 1-3 other AC solutions? "
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Tried to write a much shorter version of your code?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Tried to write a faster coder (better complexity)?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Speed",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"How much time do you need in Div2-A\/Div2-B? Target (5, 10) minutes for semiseniors, (3, 6) for seniors"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Not that fast? You need regular speed training on easy problems"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Weakly contests",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Do you participate in 1-2 contests per week at least? If no, this is bad. Offline training != Online contests"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"You need to train yourself to behave in online contests similar to offline training. This is an important skill."
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Sheet stats",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Recorded them? Yes: read your problem's row. Where do you consume the most of the time? These are your weak skills"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"No, I don't record! => How will you know your weak points?!"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Can't record timing as I am mixing thinking with coding? => Wrong behavior. get done with thinking, then move to coding. Don't cycle"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Training Time",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Is it regular and scheduled? Yes => you will have regular improvements."
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Your plan was to train X hours, Did so? If no, why?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Without regular and continous training, your mind might not improve well"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Training with?",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Yourself only? You may feel bored. If can collaborate with others = longer commitment"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"Psychological  issues",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Do you keep comparing yourself with others?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Do you have negative feelings? Like I am stupid..I am hopeless...I will never have a comparable level...?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Do you think of your image\/appearance if failed in online contests so avoid contests?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Do you use another account with a weird name to train so that people don't know about your progress\/failure?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Do you wish your friends fail in the contest? or get annoyed with their better performance?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Do you avoid teaching your friends something or give no support to remain better than them?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Do you feel bored\/frustrated as no\/weak community in your college?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Do you keep training day and night without breaks? No socialization at all?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"Do you hate specific topics and avoid them (probability\/geometry)?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"\u2018Should I stop\u2019 Dilemma? Keep thinking is it worth vs a waste of time?"
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":""
+    },
+    {
+        "Unnamed: 0":"",
+        "Weekly Check List":"If any of the above questions is YES, you probably have a problem and need to find a solution to it."
+    }
+]
